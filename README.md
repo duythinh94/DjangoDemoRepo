@@ -1,2 +1,2 @@
-#Django Demo Repo
+#DjangoDemoRepo
 This is a new line
